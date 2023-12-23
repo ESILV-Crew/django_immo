@@ -1,0 +1,13 @@
+#Basics
+pandas
+numpy
+
+#Framework
+django
+
+#Tests and utils
+pytest
+pytest-cov
+ipython
+pylint
+mypy-extensions
